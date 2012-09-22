@@ -1,0 +1,15 @@
+p {
+  line-height: 1.5em;
+}
+
+li {
+  line-height: 1.4em;
+}
+
+.span4 {
+  width: 250px;
+}
+
+.span7 {
+  width: 410px;
+}

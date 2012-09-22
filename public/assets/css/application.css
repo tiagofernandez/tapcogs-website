@@ -18,14 +18,22 @@ body {
 }
 
 p {
-  line-height: 2em;
+  line-height: 2.3em;
 }
 
 li {
-  line-height: 2em;
+  line-height: 2.1em;
 }
 
 hr {
   border-top: 1px solid #dddddd;
   border-bottom: 1px solid #eeeeee;
+}
+
+.span4 {
+  width: 260px;
+}
+
+.span7 {
+  width: 840px;
 }
